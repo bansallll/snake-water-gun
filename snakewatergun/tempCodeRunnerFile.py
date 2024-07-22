@@ -1,0 +1,3 @@
+
+# if(comp ==  user):
+#     comp=
